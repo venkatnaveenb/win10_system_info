@@ -1,2 +1,4 @@
 # win10_system_info
-win10_systeminfo
+Use this Poweshell script to get/generate the system information for windows10/11 systems 
+also can check the complance status
+Writen for Personal use.
